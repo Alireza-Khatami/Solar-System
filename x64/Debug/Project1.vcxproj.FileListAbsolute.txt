@@ -1,0 +1,4 @@
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\x64\Debug\Project1.exe
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\x64\Debug\Project1.pdb
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_2\x64\Debug\Project1.exe
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Assignment_2\x64\Debug\Project1.pdb
